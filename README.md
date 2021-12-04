@@ -1,4 +1,4 @@
-### <Hi Devs !!!/>
+### <Hi !!!/>
 
 #### Meu nome é Caroline e ...
 
