@@ -2,7 +2,7 @@
 
 #### Meu nome é Caroline e ...
 
-:dress: Sou formada em Design de Moda;
+:dress: Sou formada em Design de Moda;:octocat:
 
 :triangular_ruler: Sou especializada em Modelagem feminina digital;
 
